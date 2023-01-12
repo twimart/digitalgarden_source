@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "3271d64b978ded7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "71cdc8f6afe205bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74ea32e1ab1d78e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a99ab68f6f4a1f7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "649c289a74f57c14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2733ef8a041efa4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee84da8aec66c7eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e72e1002f83ed6a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5ffeb645fe9e4bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f087de34b438ace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cdc77dc1b70dc12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e66e20479e7ea7d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba43d52f39510087",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c78547f34b7b3db3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "74ea32e1ab1d78e6",
+  "lastOpenFiles": [
+    "_daily/2023-01-12.md",
+    "Home.md",
+    "_templates/template1.md",
+    "_seeds/202301121319.md",
+    "_seeds/202301121321.md",
+    "_seeds/202301121320.md"
+  ]
+}
