@@ -14,5 +14,13 @@
       ],
       "key": "T"
     }
+  ],
+  "obsidian-git:backup-and-close": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
   ]
 }
