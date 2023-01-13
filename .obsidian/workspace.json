@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -151,15 +151,15 @@
   },
   "active": "74ea32e1ab1d78e6",
   "lastOpenFiles": [
-    "Fiches/VLAN/Créer un VLAN sur IOS.md",
-    "Home.md",
     "Fiches/Les commandes de VLAN sur IOS.md",
+    "Fiches/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
+    "Home.md",
+    "apple-touch-icon.svg",
+    "Fiches/VLAN/Créer un VLAN sur IOS.md",
     "_seeds/202301131025.md",
     "Fiches/VLAN/Affecter un port à un VLAN.md",
     "_seeds/20230113090.md",
-    "Fiches/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
     "_templates/template1.md",
-    "_daily/2023-01-12.md",
-    "_seeds/202301121319.md"
+    "_daily/2023-01-12.md"
   ]
 }
