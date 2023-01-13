@@ -1,15 +1,15 @@
 {
   "githubRepo": "digitalgarden",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "twimart",
   "gardenBaseUrl": "https://thomasgarden.netlify.app",
   "prHistory": [],
   "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
   "baseTheme": "dark",
-  "faviconPath": "",
+  "faviconPath": "apple-touch-icon.svg",
   "showRibbonIcon": true,
   "noteSettingsIsInitialized": true,
-  "siteName": "Digital Garden",
+  "siteName": "Thomas's Garden",
   "slugifyEnabled": true,
   "defaultNoteSettings": {
     "dgHomeLink": true,

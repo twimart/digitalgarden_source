@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b0cf57e25e04874a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches/Les commandes de VLAN sur IOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcf5a403bfd18f6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches/VLAN/Créer un VLAN sur IOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8327aaefc6bf544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches/VLAN/Créer un VLAN sur IOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc7cd298d82687cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches/VLAN/Affecter un port à un VLAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,17 +149,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "2733ef8a041efa4f",
+  "active": "74ea32e1ab1d78e6",
   "lastOpenFiles": [
-    "_seeds/20230113090.md",
-    "Fiches/VLAN/Affecter un port à un VLAN.md",
     "Fiches/VLAN/Créer un VLAN sur IOS.md",
-    "Fiches/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
     "Home.md",
     "Fiches/Les commandes de VLAN sur IOS.md",
+    "_seeds/202301131025.md",
+    "Fiches/VLAN/Affecter un port à un VLAN.md",
+    "_seeds/20230113090.md",
+    "Fiches/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
     "_templates/template1.md",
     "_daily/2023-01-12.md",
-    "_seeds/202301121319.md",
-    "_seeds/202301121321.md"
+    "_seeds/202301121319.md"
   ]
 }

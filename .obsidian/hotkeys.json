@@ -15,7 +15,16 @@
       "key": "T"
     }
   ],
-  "obsidian-git:backup-and-close": [
+  "obsidian-git:backup-and-close": [],
+  "digitalgarden:publish-multiple-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-git:push": [
     {
       "modifiers": [
         "Alt"
