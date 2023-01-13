@@ -9,5 +9,6 @@ Switch(config-if)# switchport mode access
 Switch(config-if)# switchport access vlan <vlan-id>
 ```
 
-
-
+voir aussi :
+- [[Créer un VLAN sur IOS]]
+- [[Donner une addresse IP à un VLAN sur IOS]]

@@ -1,3 +1,8 @@
+---
+dg-home: false
+dg-publish: true
+---
+
 Voici comment activer et configurer Etherchannel entre 2 switch, comme-ci dessous:
 
 ![[reseau lacp.png]]
