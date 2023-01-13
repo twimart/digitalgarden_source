@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0cf57e25e04874a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fiches/Les commandes de VLAN sur IOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcf5a403bfd18f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fiches/Créer un VLAN sur IOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8327aaefc6bf544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fiches/Créer un VLAN sur IOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc7cd298d82687cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +178,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,11 +198,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "74ea32e1ab1d78e6",
+  "active": "2733ef8a041efa4f",
   "lastOpenFiles": [
-    "_daily/2023-01-12.md",
-    "Home.md",
+    "Fiches/Les commandes de VLAN sur IOS.md",
+    "Fiches/Donner une addresse IP à un VLAN sur IOS.md",
+    "Fiches/Créer un VLAN sur IOS.md",
     "_templates/template1.md",
+    "Fiches/Affecter un port à un VLAN.md",
+    "Home.md",
+    "_daily/2023-01-12.md",
     "_seeds/202301121319.md",
     "_seeds/202301121321.md",
     "_seeds/202301121320.md"

@@ -3,4 +3,6 @@ dg-home: true
 dg-publish: true
 ---
 
-Mon jardin numérique
+Bienvenue sur mes fiches informatiques :) ! 
+
+
