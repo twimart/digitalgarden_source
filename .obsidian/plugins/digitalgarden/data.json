@@ -6,7 +6,7 @@
   "prHistory": [],
   "theme": "{\"name\":\"Atom\",\"author\":\"kognise\",\"repo\":\"kognise/obsidian-atom\",\"screenshot\":\"screenshot-hybrid.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/kognise/obsidian-atom/HEAD/theme.css\"}",
   "baseTheme": "dark",
-  "faviconPath": "apple-touch-icon.svg",
+  "faviconPath": "",
   "showRibbonIcon": true,
   "noteSettingsIsInitialized": true,
   "siteName": "Thomas's Garden",
