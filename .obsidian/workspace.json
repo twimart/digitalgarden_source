@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ad80a0e28da498f",
+        "id": "d0d4b77a5baaa342",
         "type": "tabs",
         "children": [
           {
-            "id": "2b17280a229342bf",
+            "id": "cb3a1f009bb088d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
+                "file": "Bienvenue!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
+                "file": "Bienvenue!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
+                "file": "Bienvenue!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md"
+                "file": "Bienvenue!.md"
               }
             }
           }
@@ -148,17 +148,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "2b17280a229342bf",
+  "active": "cb3a1f009bb088d8",
   "lastOpenFiles": [
-    "Fiches/Cisco/IOS/Les commandes principale sur IOS.md",
-    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
-    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
-    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
-    "Home.md",
-    "Images/reseau lacp.png",
-    "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
+    "Bienvenue!.md",
     "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
+    "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
+    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
     "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
-    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md"
+    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
+    "Fiches/Cisco/IOS/Les commandes principale sur IOS.md",
+    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
+    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
+    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md"
   ]
 }

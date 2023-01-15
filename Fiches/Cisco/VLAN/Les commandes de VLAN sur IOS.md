@@ -9,7 +9,7 @@ dg-publish: true
 
 - [[Affecter un port à un VLAN]]
 
-
+- [[Définir un port en mode Trunk]]
 
 
 
