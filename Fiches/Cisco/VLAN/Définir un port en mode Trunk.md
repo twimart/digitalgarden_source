@@ -1,3 +1,7 @@
+---
+dg-home: false
+dg-publish: true
+---
 ```
 Switch(config)# interface FastEthernet 0/24
 Switch(config-if)# switchport mode trunk
