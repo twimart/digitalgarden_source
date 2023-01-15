@@ -3,9 +3,9 @@ dg-home: false
 dg-publish: true
 ---
 
-- [[Donner un nom à un équipement]]
+- [[Donner un nom à un équipement Cisco]]
 
-- [[Configurer le domaine d'un équipement]]
+- [[Configurer un domaine sur IOS]]
 
 - [[Configurer un bannière sur IOS]]
 
