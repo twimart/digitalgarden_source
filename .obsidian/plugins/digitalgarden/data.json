@@ -1,15 +1,15 @@
 {
   "githubRepo": "digitalgarden",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "twimart",
   "gardenBaseUrl": "https://thomasgarden.netlify.app",
   "prHistory": [],
   "theme": "{\"name\":\"Atom\",\"author\":\"kognise\",\"repo\":\"kognise/obsidian-atom\",\"screenshot\":\"screenshot-hybrid.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/kognise/obsidian-atom/HEAD/theme.css\"}",
   "baseTheme": "dark",
-  "faviconPath": "",
+  "faviconPath": "\\fiches_sio\\Images\\favicon-32x32.svg",
   "showRibbonIcon": true,
   "noteSettingsIsInitialized": true,
-  "siteName": "Thomas's Garden",
+  "siteName": "Thomas WIMART",
   "slugifyEnabled": true,
   "defaultNoteSettings": {
     "dgHomeLink": true,
