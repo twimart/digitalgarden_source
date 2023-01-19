@@ -1,6 +1,10 @@
 {
   "githubRepo": "digitalgarden",
+<<<<<<< HEAD
   "githubToken": "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",
+=======
+  "githubToken": "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",
+>>>>>>> origin/master
   "githubUserName": "twimart",
   "gardenBaseUrl": "https://thomasgarden.netlify.app",
   "prHistory": [],
