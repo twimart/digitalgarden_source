@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6ad80a0e28da498f",
+        "id": "34c634d68ddf0ceb",
         "type": "tabs",
         "children": [
           {
-            "id": "2b17280a229342bf",
+            "id": "ba5332a2964de86d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/favicon-32x32.svg"
+                "file": "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/favicon-32x32.svg",
+                "file": "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/favicon-32x32.svg",
+                "file": "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/favicon-32x32.svg"
+                "file": "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md"
               }
             }
           }
@@ -146,8 +148,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "2b17280a229342bf",
+  "active": "ba5332a2964de86d",
   "lastOpenFiles": [
+    "Images/favicon-32x32.svg",
     "conflict-files-obsidian-git.md",
     "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
@@ -156,7 +159,6 @@
     "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
     "Fiches/Cisco/IOS/Les commandes principale sur IOS.md",
     "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
-    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
-    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md"
+    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md"
   ]
 }
