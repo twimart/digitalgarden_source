@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
+                "file": "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ef78a6bca69e730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conf voip asterisk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
+                "file": "conf voip asterisk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
+                "file": "conf voip asterisk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md"
+                "file": "conf voip asterisk.md"
               }
             }
           }
@@ -148,17 +161,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ba5332a2964de86d",
+  "active": "6ef78a6bca69e730",
   "lastOpenFiles": [
+    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
+    "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
+    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
     "Images/favicon-32x32.svg",
     "conflict-files-obsidian-git.md",
     "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
-    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
-    "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
     "Fiches/Cisco/IOS/Les commandes principale sur IOS.md",
-    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
-    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md"
+    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md"
   ]
 }
