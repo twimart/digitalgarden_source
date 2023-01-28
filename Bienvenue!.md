@@ -13,9 +13,13 @@ N'hésitez pas à vous en servir 😎!
 - [[Les commandes principale sur IOS]]
 - [[Activer le protocole LACP sur IOS]]
 
-### Vlan:
+### Notes VLANS:
 - [[Les commandes de VLAN sur IOS]]
 - [[Affecter un port à un VLAN]]
 - [[Créer un VLAN sur IOS]]
 - [[Définir un port en mode Trunk]]
 - [[Donner une addresse IP à un VLAN sur IOS]]
+
+### Notes Linux
+- 
+
