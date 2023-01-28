@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer le serveur web Hugo.md",
+                "file": "Fiches/Hugo/Les commandes principale de Hugo.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer le serveur web Hugo.md",
+                "file": "Fiches/Hugo/Les commandes principale de Hugo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer le serveur web Hugo.md",
+                "file": "Fiches/Hugo/Les commandes principale de Hugo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer le serveur web Hugo.md"
+                "file": "Fiches/Hugo/Les commandes principale de Hugo.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "10a16a51783af466",
   "lastOpenFiles": [
+    "Fiches/Hugo/Lancer le serveur web Hugo.md",
     "Fiches/Hugo/Les commandes principale de Hugo.md",
     "Fiches/Hugo/Créer un nouveau site web avec Hugo.md",
     "Fiches/Hugo/Créer un nouveau post Hugo.md",
@@ -183,7 +184,6 @@
     "Fiches/Linux/conf voip asterisk.md",
     "Fiches/Linux/Configuration d'un serveur Asterisk.md",
     "!.md",
-    "Bienvenue!.md",
-    "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md"
+    "Bienvenue!.md"
   ]
 }

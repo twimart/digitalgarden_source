@@ -1,3 +1,8 @@
+---
+dg-home: false
+dg-publish: false
+---
+
 ````
 hugo new posts/filename.md
 ````
