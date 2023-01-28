@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d0d4b77a5baaa342",
+        "id": "ff89678735d37546",
         "type": "tabs",
         "children": [
           {
-            "id": "cb3a1f009bb088d8",
+            "id": "907f222da2f232c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,17 +140,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "cb3a1f009bb088d8",
+  "active": "2733ef8a041efa4f",
   "lastOpenFiles": [
-    "Bienvenue!.md",
+    "Test resultat des commandes.md",
     "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
+    "Bienvenue!.md",
     "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
     "Fiches/Cisco/IOS/Les commandes principale sur IOS.md",
     "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
-    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
-    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md"
+    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md"
   ]
 }
