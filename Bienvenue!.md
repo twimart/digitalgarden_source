@@ -21,5 +21,6 @@ N'hésitez pas à vous en servir 😎!
 - [[Donner une addresse IP à un VLAN sur IOS]]
 
 ### Notes Linux
-- 
+- [[Configuration d'un serveur Asterisk]]
+
 
