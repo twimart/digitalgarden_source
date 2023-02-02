@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "10af1b2c716dd84e",
+        "id": "d8d37d908c30c5f0",
         "type": "tabs",
         "children": [
           {
-            "id": "fca489b91a238fa3",
+            "id": "3f8ac140a1a919bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches/Hugo/Les commandes principale de Hugo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "131b6c64fa4d440e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches/Hugo/Les commandes principale de Hugo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10a16a51783af466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches/Linux/Configuration d'un serveur Asterisk.md",
+                "file": "Fiches/Linux/conf voip asterisk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Linux/Configuration d'un serveur Asterisk.md",
+                "file": "Fiches/Linux/conf voip asterisk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Linux/Configuration d'un serveur Asterisk.md",
+                "file": "Fiches/Linux/conf voip asterisk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches/Linux/Configuration d'un serveur Asterisk.md"
+                "file": "Fiches/Linux/conf voip asterisk.md"
               }
             }
           }
@@ -163,27 +138,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "digitalgarden:Digital Garden Publication Center": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "10a16a51783af466",
+  "active": "daa1a7a486229682",
   "lastOpenFiles": [
-    "Bienvenue!.md",
     "Fiches/Linux/Configuration d'un serveur Asterisk.md",
+    "Bienvenue!.md",
     "Fiches/Linux/conf voip asterisk.md",
+    "Fiches/Linux/Configuration du fichier users.conf.md",
+    "_templates/template1.md",
+    "Fiches/Hugo/Les commandes principale de Hugo.md",
+    "Images/favicon-32x32.svg",
+    "Images/reseau lacp.png",
     "Fiches/Hugo/Créer un nouveau site web avec Hugo.md",
-    "Fiches/Hugo/Créer un nouveau post Hugo.md",
-    "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
-    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
-    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
-    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
-    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md"
+    "Fiches/Hugo/Créer un nouveau post Hugo.md"
   ]
 }

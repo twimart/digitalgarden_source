@@ -1,4 +1,3 @@
 ---
-dg-home: false
-dg-publish: false
+dg-publish: true
 ---
