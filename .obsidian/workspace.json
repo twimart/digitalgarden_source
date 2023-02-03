@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d8d37d908c30c5f0",
+        "id": "09808addcf26db43",
         "type": "tabs",
         "children": [
           {
-            "id": "3f8ac140a1a919bb",
+            "id": "3cfb26ca60f1b112",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches/Linux/conf voip asterisk.md",
+                "file": "Fiches/Linux/Configuration du fichier users.conf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98375c0d3d2ccc8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Linux/conf voip asterisk.md",
+                "file": "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Linux/conf voip asterisk.md",
+                "file": "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches/Linux/conf voip asterisk.md"
+                "file": "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md"
               }
             }
           }
@@ -150,15 +163,15 @@
   },
   "active": "daa1a7a486229682",
   "lastOpenFiles": [
-    "Fiches/Linux/Configuration d'un serveur Asterisk.md",
-    "Bienvenue!.md",
-    "Fiches/Linux/conf voip asterisk.md",
     "Fiches/Linux/Configuration du fichier users.conf.md",
-    "_templates/template1.md",
-    "Fiches/Hugo/Les commandes principale de Hugo.md",
-    "Images/favicon-32x32.svg",
-    "Images/reseau lacp.png",
-    "Fiches/Hugo/Créer un nouveau site web avec Hugo.md",
-    "Fiches/Hugo/Créer un nouveau post Hugo.md"
+    "Bienvenue!.md",
+    "Fiches/Linux/Configuration d'un serveur Asterisk.md",
+    "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
+    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
+    "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
+    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
+    "Fiches/Cisco/IOS/Les commandes principale sur IOS.md",
+    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
+    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md"
   ]
 }

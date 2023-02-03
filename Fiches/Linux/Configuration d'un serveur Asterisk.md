@@ -1,5 +1,4 @@
 ---
-dg-home: false
 dg-publish: true
 ---
 
@@ -20,7 +19,7 @@ cp users.conf users.conf.sauve
 On pourra ensuite le contenue de notre fichier: 
 
 ````
-echo " " > users.conf
+echo "" > users.conf
 ````
 
 On va ensuite modifier plusieurs fichiers:
