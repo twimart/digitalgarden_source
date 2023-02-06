@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
+                "file": "Fiches/Linux/Configuration du fichier users.conf.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
+                "file": "Fiches/Linux/Configuration du fichier users.conf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
+                "file": "Fiches/Linux/Configuration du fichier users.conf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md"
+                "file": "Fiches/Linux/Configuration du fichier users.conf.md"
               }
             }
           }
@@ -161,17 +161,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "daa1a7a486229682",
+  "active": "98375c0d3d2ccc8d",
   "lastOpenFiles": [
+    "Fiches/Linux/Configuration d'un serveur Asterisk.md",
     "Fiches/Linux/Configuration du fichier users.conf.md",
     "Bienvenue!.md",
-    "Fiches/Linux/Configuration d'un serveur Asterisk.md",
+    "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
     "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
     "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
     "Fiches/Cisco/IOS/Les commandes principale sur IOS.md",
-    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
-    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md"
+    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md"
   ]
 }
