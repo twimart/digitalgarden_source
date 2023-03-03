@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1c427d9fb2cb122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -150,10 +163,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "3cfb26ca60f1b112",
+  "active": "c1c427d9fb2cb122",
   "lastOpenFiles": [
-    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
     "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+    "conflict-files-obsidian-git.md",
+    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
     "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
     "Fiches/Linux/Configuration d'un serveur Asterisk.md",
     "Fiches/Linux/conf voip asterisk.md",
