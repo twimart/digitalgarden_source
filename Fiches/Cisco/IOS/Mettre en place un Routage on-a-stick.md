@@ -1,9 +1,12 @@
+---
+dg-publish: true
+---
 
 ## Topologie du réseau ##
 
 ![[nat reseau.png]]
 
-### 1ere étape : mettre en place SSH sur les équipement .###
+### 1ere étape : mettre en place SSH sur les équipement . ###
 
 Je vous invite à suivre le tutoriel que j'ai fait une note [[https://www.thomaswimart.fr/fr/notes/cisco-ssh |ici]] .
 
@@ -53,6 +56,7 @@ R1(config-subif)# ip address 192.168.254.254 255.255.255.0
 
 
 ***Vous pouvez répéter la 3ième étape autant de fois que vous avez de VLANs.***
+
 
 
 

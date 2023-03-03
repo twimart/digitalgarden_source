@@ -1,10 +1,4 @@
 [
-<<<<<<< HEAD
   "digitalgarden",
-  "obsidian-git",
-  "obsidian-textgenerator-plugin"
-=======
-  "obsidian-git",
-  "digitalgarden"
->>>>>>> origin/master
+  "obsidian-git"
 ]
