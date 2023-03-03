@@ -46,7 +46,17 @@ On active le protocole 802.q et on lui dit d'écouter le VLAN 10:
 R1(config-subif)# encapsulation dot1Q 10
 ```
 
+On lui assigne une adresse IP et son masque. 
 ```
 R1(config-subif)# ip address 192.168.254.254 255.255.255.0
 ```
+
+
+***Vous pouvez répéter la 3ième étape autant de fois que vous avez de VLANs.***
+
+
+
+
+
+
 
