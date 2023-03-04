@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+                "file": "Bienvenue!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+                "file": "Bienvenue!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+                "file": "Bienvenue!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md"
+                "file": "Bienvenue!.md"
               }
             }
           }
@@ -150,30 +150,23 @@
   },
   "active": "3cfb26ca60f1b112",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
+    "Bienvenue!.md",
     "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+    "Fiches/Hugo/Les commandes principale de Hugo.md",
+    "Fiches/Cisco/IOS/Les commandes principales sur IOS.md",
+    "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
+    "Fiches/Linux/conf voip asterisk.md",
+    "Fiches/Linux/Configuration d'un serveur Asterisk.md",
+    "Fiches/Linux/Configuration du fichier users.conf.md",
+    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
+    "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
+    "_templates/template1.md",
+    "!.md",
+    "conflict-files-obsidian-git.md",
     "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
     "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
-    "Fiches/Linux/Configuration d'un serveur Asterisk.md",
-    "Fiches/Linux/conf voip asterisk.md",
-    "!.md",
-    "Fiches/Hugo/Les commandes principale de Hugo.md",
     "Fiches/Hugo/Lancer le serveur web Hugo.md",
-    "Fiches/Hugo/Créer un nouveau site web avec Hugo.md",
-    "Fiches/Hugo/Créer un nouveau post Hugo.md",
-    "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
-    "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
-    "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
-    "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
-    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
-    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
-    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
-    "Fiches/Cisco/IOS/Les commandes principale sur IOS.md",
-    "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
-    "Images/reseau lacp.png",
-    "Images/nat reseau.png",
-    "Pasted image 20230303140752.png",
-    "Bienvenue!.md",
-    "Fiches/Linux/Configuration du fichier users.conf.md"
+    "Fiches/Hugo/Créer un nouveau site web avec Hugo.md"
   ]
 }

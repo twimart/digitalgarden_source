@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 ---
 
 Installer Asterisck sur le serveur ( ici une machine Debian):

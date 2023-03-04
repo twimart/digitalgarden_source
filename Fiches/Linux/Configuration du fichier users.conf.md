@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 ---
 
 Ce premier concerne la configuration générale qui sera appliquée à l’ensemble des utilisateurs:

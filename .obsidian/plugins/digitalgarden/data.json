@@ -1,6 +1,6 @@
 {
   "githubRepo": "digitalgarden",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "twimart",
   "gardenBaseUrl": "https://thomasgarden.netlify.app",
   "prHistory": [],
@@ -22,7 +22,7 @@
     "dgShowBacklinks": true,
     "dgShowLocalGraph": false,
     "dgShowInlineTitle": true,
-    "dgShowFileTree": false,
+    "dgShowFileTree": true,
     "dgEnableSearch": true,
     "dgShowToc": true,
     "dgLinkPreview": false,
