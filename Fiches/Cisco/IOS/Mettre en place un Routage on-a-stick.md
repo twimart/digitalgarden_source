@@ -6,11 +6,11 @@ dg-publish: true
 
 ![[nat reseau.png]]
 
-### 1ere étape : mettre en place SSH sur les équipement . ###
+## 1ere étape : Mettre en place SSH sur les équipement
 
 Je vous invite à suivre le tutoriel que j'ai fait une note [[https://www.thomaswimart.fr/fr/notes/cisco-ssh |ici]] .
 
-### 2ieme étape: paramétrer un VLAN sur le Switch. ###
+## 2ieme étape: Paramétrer un VLAN sur le Switch 
 
 On créer un VLAN afin d'attribuer une adresse IP au Switch:
 
@@ -35,7 +35,7 @@ Ne pas oublier d'indiquer au Switch sa passerelle par défaut:
 ````
 
 
-### 3ieme étape: configurer le routeur. ###
+## 3ieme étape: Configurer le routeur
 
 On va tout d'abord créer des sous-interfaces (ou interfaces virtuelles), afin que l'interface physique du routeur (Gb 0/0) puisse écouter plusieurs VLANs. 
 

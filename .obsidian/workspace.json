@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenue!.md",
+                "file": "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nat ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenue!.md",
+                "file": "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenue!.md",
+                "file": "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenue!.md"
+                "file": "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md"
               }
             }
           }
@@ -150,9 +150,17 @@
   },
   "active": "3cfb26ca60f1b112",
   "lastOpenFiles": [
-    "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
-    "Bienvenue!.md",
+    "Images/nat réseau.png",
+    "Images/favicon-32x32.svg",
+    "Images/reseau lacp.png",
+    "Images/nat reseau.png",
     "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+    "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
+    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
+    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
+    "Bienvenue!.md",
+    "_templates/template1.md",
+    "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
     "Fiches/Hugo/Les commandes principale de Hugo.md",
     "Fiches/Cisco/IOS/Les commandes principales sur IOS.md",
     "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
@@ -161,11 +169,8 @@
     "Fiches/Linux/Configuration du fichier users.conf.md",
     "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
     "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
-    "_templates/template1.md",
     "!.md",
     "conflict-files-obsidian-git.md",
-    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
-    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
     "Fiches/Hugo/Lancer le serveur web Hugo.md",
     "Fiches/Hugo/Créer un nouveau site web avec Hugo.md"
   ]

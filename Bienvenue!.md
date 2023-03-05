@@ -13,7 +13,9 @@ N'hésitez pas à vous en servir 😎!
 - [[Activer le protocole LACP sur IOS]]
 - [[Les commandes de VLAN sur IOS]]
 - [[Mettre en place un Routage on-a-stick]]
+- [[Configuration du NAT avec Cisco]]
 - [[Mettre en place QOS sur un Switch Cisco]]
+
 
 ### Notes Linux:
 - [[Configuration d'un serveur Asterisk]]
