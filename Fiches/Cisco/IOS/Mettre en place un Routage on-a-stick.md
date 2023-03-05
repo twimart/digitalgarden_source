@@ -4,7 +4,7 @@ dg-publish: true
 
 ## Topologie du réseau ##
 
-![[nat reseau.png]]
+![[stick réseau.png]]
 
 ## 1ere étape : Mettre en place SSH sur les équipement
 
