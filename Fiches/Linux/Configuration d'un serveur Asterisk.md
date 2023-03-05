@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 
 Installer Asterisck sur le serveur ( ici une machine Debian):
@@ -24,7 +24,7 @@ echo "" > users.conf
 
 On va ensuite modifier plusieurs fichiers:
 
-- [[Configuration du fichier users.conf | users.conf ]]
+- [[Configuration du fichier users.conf |users.conf ]]
 -  extensions.conf
 - voicemail.conf
 - iax.conf 

@@ -8,21 +8,14 @@ dg-publish: true
 
 ## 1ere étape : Mettre en place SSH sur les équipement
 
-Je vous invite à suivre le tutoriel que j'ai fait une note [[https://www.thomaswimart.fr/fr/notes/cisco-ssh |ici]] .
+Je vous invite à suivre le tutoriel que j'ai fait une note [[Etablir une connexion SSH sur un appareil Cisco|ici]].
 
 ## 2ieme étape: Paramétrer un VLAN sur le Switch 
 
-On créer un VLAN afin d'attribuer une adresse IP au Switch:
+On créer un VLAN et l'on lui attribue une adresse IP: 
 
-````
-Switch(config)# vlan 10
-Switch(config-vlan)# name MANAGEMENT
-Switch(config-vlan)# exit
-Switch(config)#interface vlan 10
-Switch(config-if)# ip address 192.168.0.100 255.255.255.0 
-Switch(config-if)# exit
-Switch(config)# 
-````
+- [[Créer un VLAN sur IOS]]
+- [[Donner une addresse IP à un VLAN sur IOS]]
 
 On va ensuite affecter un port à notre VLAN. J'ai fait une note [[Affecter un port à un VLAN |ici]]. 
 
@@ -55,7 +48,7 @@ R1(config-subif)# ip address 192.168.254.254 255.255.255.0
 ```
 
 
-***Vous pouvez répéter la 3ième étape autant de fois que vous avez de VLANs.***
+***Vous pouvez répéter la 2ieme et 3ième étape autant de fois que vous avez de VLANs.***
 
 
 

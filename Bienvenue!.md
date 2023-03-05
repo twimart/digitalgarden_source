@@ -18,7 +18,7 @@ N'hésitez pas à vous en servir 😎!
 
 
 ### Notes Linux:
-- [[Configuration d'un serveur Asterisk]]
+- [[Configuration d'un serveur Asterisk]] (en cours de production)
 
 ### Notes Hugo:
 - [[Les commandes principale de Hugo]]

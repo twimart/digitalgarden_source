@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 ---
+
 ![[nat réseau.png]]
 
 *Dans ce shéma, Router1 symbolise Internet, le seul "vrai" routeur est Router0, c'est sur lui qu'on va configurer le NAT.*

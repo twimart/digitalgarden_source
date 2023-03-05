@@ -1,6 +1,8 @@
+---
+dg-publish: true
+---
 
 
-⚠  A détailler!!!
 ````
 SwitchToto>en
 Password:
