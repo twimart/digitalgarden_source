@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "e42e7fc56ba0667e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuration d'une DMZ sur un routeur CISCO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0ce29112262ff86e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+                "file": "Fiches/Etablir une connexion SSH sur un appareil Cisco.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+                "file": "Configuration d'une DMZ sur un routeur CISCO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+                "file": "Configuration d'une DMZ sur un routeur CISCO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md"
+                "file": "Configuration d'une DMZ sur un routeur CISCO.md"
               }
             }
           }
@@ -161,19 +173,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0ce29112262ff86e",
+  "active": "e42e7fc56ba0667e",
   "lastOpenFiles": [
     "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
+    "Configuration d'une DMZ sur un routeur CISCO.md",
+    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+    "Fiches/Etablir une connexion SSH sur un appareil Cisco.md",
     "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
     "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
     "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
-    "Fiches/Etablir une connexion SSH sur un appareil Cisco.md",
     "Images/ssh.png",
     "Bienvenue!.md",
     "Images/putty.png",
-    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
     "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
     "Fiches/Linux/Configuration d'un serveur Asterisk.md",
     "Fiches/Linux/Configuration du fichier users.conf.md",
