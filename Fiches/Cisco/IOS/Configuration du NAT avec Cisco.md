@@ -30,6 +30,8 @@ Maintenant, nous allons configurer la translation d'adresse pour que les adresse
 Router(config)# ip nat inside source list 1 interface GigabitEthernet 0/1 overload
 ```
 
+*(GigabitEthernet 0/1 est l'interface coté WAN du routeur)*
+
 Dans cette commande, `list 1` fait référence à une liste d'accès qui spécifie les adresses IP privées à traduire. Dans ce cas, nous allons utiliser une liste d'accès standard qui inclut toutes les adresses IP du réseau privé :
 
 ```
@@ -55,5 +57,5 @@ Il ne nous reste plus qu'à configurer une route par défaut pour que les paquet
 Router(config)# ip route 0.0.0.0 0.0.0.0 203.0.113.1
 ````
 
-C'est tout ce qu'il faut pour configurer le NAT sur un routeur Cisco. Maintenant, toutes les adresses IP privées du réseau 192.168.53.0/24 seront traduites en adresse IP publique lorsqu'elles accéderont à Internet.
+C'est tout ce qu'il faut pour configurer le NAT sur un routeur Cisco. Maintenant, toutes les adresses IP privées du réseau 192.168.53.0/24 seront traduites en adresse IP publique lorsqu'elles accéderont à Internet. Elles pourront ainsi avoir accès à Internet. 
 
