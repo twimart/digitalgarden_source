@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09808addcf26db43",
+        "id": "f97ec2fe860b7794",
         "type": "tabs",
         "children": [
           {
-            "id": "3cfb26ca60f1b112",
+            "id": "e1305e0e55c8e4e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+                "file": "Faire une DMZ sur Cisco.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+                "file": "Faire une DMZ sur Cisco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+                "file": "Faire une DMZ sur Cisco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md"
+                "file": "Faire une DMZ sur Cisco.md"
               }
             }
           }
@@ -148,15 +148,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "3cfb26ca60f1b112",
+  "active": "e1305e0e55c8e4e1",
   "lastOpenFiles": [
+    "Faire une DMZ sur Cisco.md",
+    "Images/DMZ.png",
+    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
     "conflict-files-obsidian-git.md",
     "Configuration d'une DMZ sur un routeur CISCO.md",
     "Fiches/Cisco/IOS/Configuration d'une DMZ sur un routeur CISCO.md",
     "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
     "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
     "Fiches/Cisco/IOS/Les commandes principales sur IOS.md",
-    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
     "Bienvenue!.md",
     "Fiches/Etablir une connexion SSH sur un appareil Cisco.md",
     "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
@@ -181,7 +183,6 @@
     "_templates/template1.md",
     "Fiches/Hugo/Les commandes principale de Hugo.md",
     "!.md",
-    "Fiches/Hugo/Lancer le serveur web Hugo.md",
-    "Fiches/Hugo/Créer un nouveau site web avec Hugo.md"
+    "Fiches/Hugo/Lancer le serveur web Hugo.md"
   ]
 }
