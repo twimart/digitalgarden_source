@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3e1fce9f869c33d",
+        "id": "8c6fa09fab79f372",
         "type": "tabs",
         "children": [
           {
-            "id": "301d79b3b98b393b",
+            "id": "0b3bdd5e272ea07b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,8 +140,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "301d79b3b98b393b",
+  "active": "0b3bdd5e272ea07b",
   "lastOpenFiles": [
+    "tets.md",
+    "Untitled.canvas",
     "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
     "Fiches/Cisco/IOS/Configuration d'une DMZ sur un routeur CISCO.md",
     "Bienvenue!.md",
@@ -174,8 +175,6 @@
     "Images/favicon-32x32.svg",
     "Images/reseau lacp.png",
     "Images/nat reseau.png",
-    "_templates/template1.md",
-    "Fiches/Hugo/Les commandes principale de Hugo.md",
-    "!.md"
+    "_templates/template1.md"
   ]
 }
