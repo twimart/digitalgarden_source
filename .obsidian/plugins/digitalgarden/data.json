@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "githubRepo": "digital-garden",
   "githubToken": "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",
+=======
+  "githubRepo": "digitalgarden",
+  "githubToken": "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",
+>>>>>>> origin/master
   "githubUserName": "twimart",
   "gardenBaseUrl": "https://digital-garden-kohl.vercel.app/",
   "prHistory": [],

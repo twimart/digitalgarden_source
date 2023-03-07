@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ## Étape 1 : Configuration de l'interface du routeur
 
