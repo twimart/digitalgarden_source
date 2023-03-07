@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ## Création de noms d'utilisateurs, de domaines, et de clés ##
 

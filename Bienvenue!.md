@@ -1,6 +1,6 @@
 ---
-dg-home: true
 dg-publish: true
+dg-home: true
 ---
 
 Vous êtes à présent sur un site qui regroupe diverses notes personnelles que j'utilise au quotidien, notament dans mes études. 😊
