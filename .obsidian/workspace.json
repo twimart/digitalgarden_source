@@ -11,11 +11,28 @@
             "id": "0b3bdd5e272ea07b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bienvenue!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2f2d50b28debfab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes à faire de toute urgences..md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes à faire de toute urgences..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes à faire de toute urgences..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes à faire de toute urgences..md"
+              }
             }
           }
         ]
@@ -140,41 +161,42 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0b3bdd5e272ea07b",
+  "active": "d2f2d50b28debfab",
   "lastOpenFiles": [
-    "tets.md",
-    "Untitled.canvas",
-    "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
-    "Fiches/Cisco/IOS/Configuration d'une DMZ sur un routeur CISCO.md",
     "Bienvenue!.md",
-    "Fiches/Cisco/IOS/Configurer un NAT de destination sur Cisco.md",
-    "Fiches/Cisco/IOS/Faire une DMZ sur avec un équipement Cisco.md",
-    "Images/DMZ.png",
-    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
+    "Notes à faire de toute urgences..md",
+    "Fiches/Cisco/IOS/Configuration d'une DMZ sur un routeur CISCO.md",
     "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
-    "Fiches/Etablir une connexion SSH sur un appareil Cisco.md",
-    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
-    "conflict-files-obsidian-git.md",
-    "Configuration d'une DMZ sur un routeur CISCO.md",
+    "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
+    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
     "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
-    "Fiches/Cisco/IOS/Les commandes principales sur IOS.md",
+    "Fiches/Cisco/IOS/Configurer un NAT de destination sur Cisco.md",
     "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
+    "Fiches/Cisco/IOS/Les commandes principales sur IOS.md",
     "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
+    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
+    "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
+    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
     "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
-    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
-    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
-    "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
-    "Images/ssh.png",
-    "Images/putty.png",
+    "Fiches/Hugo/Créer un nouveau post Hugo.md",
+    "Fiches/Hugo/Créer un nouveau site web avec Hugo.md",
+    "Fiches/Hugo/Lancer le serveur web Hugo.md",
+    "Fiches/Hugo/Les commandes principale de Hugo.md",
+    "Fiches/Linux/conf voip asterisk.md",
     "Fiches/Linux/Configuration d'un serveur Asterisk.md",
     "Fiches/Linux/Configuration du fichier users.conf.md",
-    "Fiches/Linux/conf voip asterisk.md",
+    "tets.md",
+    "Untitled.canvas",
+    "Fiches/Cisco/IOS/Faire une DMZ sur avec un équipement Cisco.md",
+    "Images/DMZ.png",
+    "Images/ssh.png",
+    "Images/putty.png",
     "Images/stick réseau.png",
     "Images/nat réseau.png",
     "Images/favicon-32x32.svg",
     "Images/reseau lacp.png",
-    "Images/nat reseau.png",
-    "_templates/template1.md"
+    "Images/nat reseau.png"
   ]
 }
