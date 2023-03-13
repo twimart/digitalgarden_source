@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "ee0bba7ca40296de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Installer WordPress sur un serveur Apache.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d2f2d50b28debfab",
             "type": "leaf",
             "state": {
@@ -66,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d2e5a0060c84249f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installer WordPress sur un serveur Apache.md",
+                "file": "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Installer WordPress sur un serveur Apache.md",
+                "file": "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Installer WordPress sur un serveur Apache.md"
+                "file": "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md"
               }
             }
           }
@@ -209,13 +185,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d2f2d50b28debfab",
+  "active": "a26b49c7a8094e77",
   "lastOpenFiles": [
     "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
+    "Installer WordPress sur un serveur Apache.md",
     "Fiches/Linux/conf voip asterisk.md",
     "Fiches/Linux/Configuration d'un serveur Asterisk.md",
     "Fiches/Linux/Configuration du fichier users.conf.md",
-    "Installer WordPress sur un serveur Apache.md",
     "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
     "Notes à faire de toute urgences..md",
     "Fiches/Etablir une connexion SSH sur un appareil Cisco.md",
