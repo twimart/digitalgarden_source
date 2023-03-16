@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
-                "mode": "source",
+                "file": "Installer WordPress sur un serveur Apache.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
+                "file": "Installer WordPress sur un serveur Apache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
+                "file": "Installer WordPress sur un serveur Apache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md"
+                "file": "Installer WordPress sur un serveur Apache.md"
               }
             }
           }
@@ -189,30 +189,30 @@
   "lastOpenFiles": [
     "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
     "Installer WordPress sur un serveur Apache.md",
-    "Fiches/Linux/conf voip asterisk.md",
-    "Fiches/Linux/Configuration d'un serveur Asterisk.md",
-    "Fiches/Linux/Configuration du fichier users.conf.md",
-    "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
-    "Notes à faire de toute urgences..md",
     "Fiches/Etablir une connexion SSH sur un appareil Cisco.md",
-    "Bienvenue!.md",
+    "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
+    "Fiches/Linux/Configuration du fichier users.conf.md",
+    "Fiches/Linux/Configuration d'un serveur Asterisk.md",
+    "Fiches/Linux/conf voip asterisk.md",
+    "Fiches/Hugo/Les commandes principale de Hugo.md",
+    "Fiches/Hugo/Lancer le serveur web Hugo.md",
+    "Fiches/Hugo/Créer un nouveau site web avec Hugo.md",
+    "Fiches/Hugo/Créer un nouveau post Hugo.md",
+    "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
+    "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
+    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
+    "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
+    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
+    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+    "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
+    "Fiches/Cisco/IOS/Les commandes principales sur IOS.md",
+    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
+    "Fiches/Cisco/IOS/Configurer un NAT de destination sur Cisco.md",
+    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
+    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
+    "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
     "Fiches/Cisco/IOS/Configuration d'une DMZ sur un routeur CISCO.md",
     "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
-    "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
-    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
-    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
-    "Fiches/Cisco/IOS/Configurer un NAT de destination sur Cisco.md",
-    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
-    "Fiches/Cisco/IOS/Les commandes principales sur IOS.md",
-    "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
-    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
-    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
-    "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
-    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
-    "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
-    "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
-    "Fiches/Hugo/Créer un nouveau post Hugo.md",
-    "Fiches/Hugo/Créer un nouveau site web avec Hugo.md",
     "Untitled.canvas",
     "Images/DMZ.png",
     "Images/ssh.png",

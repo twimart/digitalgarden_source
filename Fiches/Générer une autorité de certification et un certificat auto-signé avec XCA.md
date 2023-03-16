@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ### 1ère étape: Créer une Autorité de Certification (CA)
 

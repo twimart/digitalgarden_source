@@ -99,7 +99,7 @@ Vous devriez accèder à une page qui donne toutes les infos sur votre configura
 
 Installer MariaDB:
 ```
-udo apt-get install -y mariadb-server
+sudo apt-get install -y mariadb-server
 ```
 
 Accèder à votre instance MariaDB (dans mon cas root n'as pas de mdp)

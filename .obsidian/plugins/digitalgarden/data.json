@@ -1,8 +1,8 @@
 {
-  "githubRepo": "",
-  "githubToken": "",
-  "githubUserName": "",
-  "gardenBaseUrl": "",
+  "githubRepo": "digital-garden",
+  "githubToken": "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",
+  "githubUserName": "twimart",
+  "gardenBaseUrl": "https://digital-garden-kohl.vercel.app/",
   "prHistory": [],
   "baseTheme": "dark",
   "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
