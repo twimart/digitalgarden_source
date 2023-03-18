@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8c6fa09fab79f372",
+        "id": "c3caf49f1927788e",
         "type": "tabs",
         "children": [
           {
-            "id": "0b3bdd5e272ea07b",
+            "id": "81234bd500fd88df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenue!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a26b49c7a8094e77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Installer WordPress sur un serveur Apache.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49c6632ae87d4285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2f2d50b28debfab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Installer WordPress sur un serveur Apache.md",
+                "file": "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installer WordPress sur un serveur Apache.md",
+                "file": "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Installer WordPress sur un serveur Apache.md",
+                "file": "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Installer WordPress sur un serveur Apache.md"
+                "file": "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md"
               }
+            }
+          },
+          {
+            "id": "147d0ec2c6864e26",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -185,34 +156,35 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "a26b49c7a8094e77",
+  "active": "81234bd500fd88df",
   "lastOpenFiles": [
+    "_templates/template1.md",
+    "daily/2023-03-18.md",
     "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
-    "Installer WordPress sur un serveur Apache.md",
-    "Fiches/Etablir une connexion SSH sur un appareil Cisco.md",
-    "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
     "Fiches/Linux/Configuration du fichier users.conf.md",
+    "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
+    "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
+    "daily",
+    "2023-W11.md",
+    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
+    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
+    "Fiches/Cisco/Etablir une connexion SSH sur un appareil Cisco.md",
+    "Fiches/Cisco/Reset un Switch Cisco (sans mot de passe).md",
+    "Notes à faire de toute urgences..md",
+    "Untitled.md",
+    "Fiches/Cisco/IOS/Configurer un NAT de destination sur Cisco.md",
+    "Bienvenue!.md",
+    "Fiches/Linux/Installer WordPress sur un serveur Apache.md",
+    "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
     "Fiches/Linux/Configuration d'un serveur Asterisk.md",
     "Fiches/Linux/conf voip asterisk.md",
     "Fiches/Hugo/Les commandes principale de Hugo.md",
     "Fiches/Hugo/Lancer le serveur web Hugo.md",
     "Fiches/Hugo/Créer un nouveau site web avec Hugo.md",
     "Fiches/Hugo/Créer un nouveau post Hugo.md",
-    "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
-    "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
-    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
     "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
-    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
     "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
     "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
-    "Fiches/Cisco/IOS/Les commandes principales sur IOS.md",
-    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
-    "Fiches/Cisco/IOS/Configurer un NAT de destination sur Cisco.md",
-    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
-    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
-    "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
-    "Fiches/Cisco/IOS/Configuration d'une DMZ sur un routeur CISCO.md",
-    "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
     "Untitled.canvas",
     "Images/DMZ.png",
     "Images/ssh.png",
