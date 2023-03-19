@@ -8,7 +8,7 @@ dg-publish: true
 
 ## 1ere étape : Mettre en place SSH sur les équipement
 
-Je vous invite à suivre le tutoriel que j'ai fait une note [[Etablir une connexion SSH sur un appareil Cisco|ici]].
+Je vous invite à suivre le tutoriel que j'ai fait une note [[Paramètrer une connexion SSH sur un appareil Cisco|ici]].
 
 ## 2ieme étape: Paramétrer un VLAN sur le Switch 
 

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c3caf49f1927788e",
+        "id": "9eebdedea41c2353",
         "type": "tabs",
         "children": [
           {
-            "id": "81234bd500fd88df",
+            "id": "b26689571aab2154",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,20 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md"
-              }
-            }
-          },
-          {
-            "id": "147d0ec2c6864e26",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,8 +141,24 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "81234bd500fd88df",
+  "active": "daa1a7a486229682",
   "lastOpenFiles": [
+    "2023-W11.md",
+    "Mettre en place une conexion SSH via l'échanges de clés.md",
+    "Notes à faire de toute urgences..md",
+    "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
+    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
+    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
+    "Fiches/Cisco/IOS/Configurer un NAT de destination sur Cisco.md",
+    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
+    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+    "Fiches/Cisco/IOS/Les commandes principales sur IOS.md",
+    "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
+    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
+    "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
+    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
+    "Fiches/Cisco/Paramètrer une connexion SSH sur un appareil Cisco.md",
+    "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
     "_templates/template1.md",
     "daily/2023-03-18.md",
     "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
@@ -165,26 +166,10 @@
     "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
     "daily",
-    "2023-W11.md",
-    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
-    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
-    "Fiches/Cisco/Etablir une connexion SSH sur un appareil Cisco.md",
     "Fiches/Cisco/Reset un Switch Cisco (sans mot de passe).md",
-    "Notes à faire de toute urgences..md",
-    "Untitled.md",
-    "Fiches/Cisco/IOS/Configurer un NAT de destination sur Cisco.md",
     "Bienvenue!.md",
     "Fiches/Linux/Installer WordPress sur un serveur Apache.md",
     "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
-    "Fiches/Linux/Configuration d'un serveur Asterisk.md",
-    "Fiches/Linux/conf voip asterisk.md",
-    "Fiches/Hugo/Les commandes principale de Hugo.md",
-    "Fiches/Hugo/Lancer le serveur web Hugo.md",
-    "Fiches/Hugo/Créer un nouveau site web avec Hugo.md",
-    "Fiches/Hugo/Créer un nouveau post Hugo.md",
-    "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
-    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
-    "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
     "Untitled.canvas",
     "Images/DMZ.png",
     "Images/ssh.png",
