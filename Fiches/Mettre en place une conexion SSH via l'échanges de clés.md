@@ -70,5 +70,6 @@ ssh <user_distant>@<hostname_distant>
 ```
 
 Vous devrez alors vous connecter à l'hôte distant afin de copier votre clé publique. A votre prochaine connexion, vous devrez indiquer la phrase secrète  de votre clé. 
+
 Puis vous n'aurez plus besoin de mettre de mot de passe du tout pour vous connecter!
 

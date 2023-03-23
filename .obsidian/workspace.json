@@ -11,8 +11,12 @@
             "id": "b26689571aab2154",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md"
+              }
             }
           }
         ],
@@ -141,10 +149,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "daa1a7a486229682",
+  "active": "b26689571aab2154",
   "lastOpenFiles": [
+    "Bienvenue!.md",
     "2023-W11.md",
-    "Mettre en place une conexion SSH via l'échanges de clés.md",
+    "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md",
     "Notes à faire de toute urgences..md",
     "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
     "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
@@ -167,7 +176,6 @@
     "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
     "daily",
     "Fiches/Cisco/Reset un Switch Cisco (sans mot de passe).md",
-    "Bienvenue!.md",
     "Fiches/Linux/Installer WordPress sur un serveur Apache.md",
     "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
     "Untitled.canvas",
