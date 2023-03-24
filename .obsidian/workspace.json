@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACL Exam.md",
+                "file": "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lamp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACL Exam.md",
+                "file": "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACL Exam.md",
+                "file": "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACL Exam.md"
+                "file": "Fiches/Linux/Créer un serveur LAMP sur Debian.md"
               }
             }
           }
@@ -176,13 +177,14 @@
   },
   "active": "80bfb2c95d23a7b4",
   "lastOpenFiles": [
+    "Fiches/Linux/Installer WordPress sur un serveur Apache.md",
     "Perso/Exam/Serveurs Exam.md",
-    "ACL Exam.md",
+    "Perso/Exam/ACL Exam.md",
+    "Ordre prises armoire A.md",
     "Perso/Exam",
     "Perso",
     "Bienvenue!.md",
     "Notes à faire!!.md",
-    "Ordre prises armoire A.md",
     "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
     "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
     "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
@@ -203,7 +205,6 @@
     "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
     "Fiches/Cisco/Paramètrer une connexion SSH sur un appareil Cisco.md",
-    "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
     "daily",
     "Untitled.canvas",
     "Images/DMZ.png",

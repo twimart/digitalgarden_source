@@ -15,11 +15,9 @@ access-list 102 permit tcp  any (réseau DMZ masque inverse) eq 22
 access-list 103 permit tcp  (réseau DMZ masque inverse) eq 22 any
 access-list 100 permit tcp (réseau DMZ masque inverse) eq 22 (réseau LAN masque inverse)
 
-
 ### Accès SSH à mon routeur à partir du LAN
 access-list 101 permit tcp  (réseau DMZ masque inverse) host (adresse routeur LAN) eq 22
 access-list 100 permit tcp host (adresse routeur LAN) eq 22 (réseau LAN masque inverse)
-
 
 ### Accès SSH à mon routeur à partir de la DMZ
 access-list 103 permit tcp (réseau DMZ masque inverse)  host (adresse routeur DMZ) eq 22
@@ -28,7 +26,6 @@ access-list 102 permit tcp host (adresse routeur DMZ) eq 22 (réseau DMZ masque 
 ### Accès SSH à partir d'Internet vers la DMZ
 access-list 102 permit tcp  any  (réseau DMZ masque inverse) eq 22
 access-list 103 permit tcp (réseau DMZ masque inverse) eq 22    any
-
 
 ### Accès WEB à partir d'Internet vers la DMZ
 access-list 102 permit tcp  any (réseau DMZ masque inverse) eq 53
@@ -53,4 +50,6 @@ access-list 102 deny udp any any log
 ### Voirs les logs si jamais
 
 show log 
+
+
 
