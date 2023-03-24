@@ -1,0 +1,1 @@
+switch haut, swhitch bas ; espace ; routeur haut, routeur bas 

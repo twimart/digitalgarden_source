@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "9eebdedea41c2353",
+        "id": "e0fab62ecd5eefbf",
         "type": "tabs",
         "children": [
           {
-            "id": "b26689571aab2154",
+            "id": "67e204cc26a3fea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md",
+                "file": "Bienvenue!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da7fdea25b45b5b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perso/Exam/Serveurs Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80bfb2c95d23a7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACL Exam.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,9 +74,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md",
+                "file": "ACL Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md",
+                "file": "ACL Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md"
+                "file": "ACL Exam.md"
               }
             }
           }
@@ -149,35 +174,37 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "b26689571aab2154",
+  "active": "80bfb2c95d23a7b4",
   "lastOpenFiles": [
+    "Perso/Exam/Serveurs Exam.md",
+    "ACL Exam.md",
+    "Perso/Exam",
+    "Perso",
     "Bienvenue!.md",
-    "2023-W11.md",
-    "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md",
-    "Notes à faire de toute urgences..md",
-    "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
+    "Notes à faire!!.md",
+    "Ordre prises armoire A.md",
     "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
     "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
-    "Fiches/Cisco/IOS/Configurer un NAT de destination sur Cisco.md",
     "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
-    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
     "Fiches/Cisco/IOS/Les commandes principales sur IOS.md",
     "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
+    "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
+    "Fiches/Linux/Mettre en place Rsyslog.md",
+    "Fiches/Cisco/IOS/Configurer un NAT de destination sur Cisco.md",
+    "daily/2023-03-18.md",
+    "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
+    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+    "Fiches/Cisco/IOS/Reinitialiser un Switch Cisco.md",
+    "Fiches/Cisco/IOS/Changer la location des logs sur Cisco.md",
+    "_templates/template1.md",
+    "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md",
+    "2023-W11.md",
     "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
     "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
     "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
     "Fiches/Cisco/Paramètrer une connexion SSH sur un appareil Cisco.md",
     "Fiches/Cisco/IOS/Activer le protocole LACP sur IOS.md",
-    "_templates/template1.md",
-    "daily/2023-03-18.md",
-    "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
-    "Fiches/Linux/Configuration du fichier users.conf.md",
-    "Fiches/Cisco/VLAN/Les commandes de VLAN sur IOS.md",
-    "Fiches/Cisco/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
     "daily",
-    "Fiches/Cisco/Reset un Switch Cisco (sans mot de passe).md",
-    "Fiches/Linux/Installer WordPress sur un serveur Apache.md",
-    "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
     "Untitled.canvas",
     "Images/DMZ.png",
     "Images/ssh.png",

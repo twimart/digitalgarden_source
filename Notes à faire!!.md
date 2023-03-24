@@ -6,12 +6,18 @@ https://rmauro.dev/8-actions-for-hardening-your-linux-server-for-internet/
 
 Pour supprimer un nat statique en cours d'utilisation (pas desoin de conf t):
 
-"ip nat translation *"
+"no ip nat translation *"
  
  
  netstat -lpn | less
 
 
-NOTES XCA !!!!!!!!!!
+Note chrony!!!!!
+
+Faire une note DHCP :)
+https://www.linuxtricks.fr/wiki/debian-installer-un-serveur-dhcp
+
+
+haproxy!!!!!
 
 
