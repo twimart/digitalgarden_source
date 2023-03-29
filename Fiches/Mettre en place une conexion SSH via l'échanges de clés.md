@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ### Etape 1: générer une paire de clés
 
 Ouvrez un terminal et taper la commande suivante:

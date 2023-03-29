@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e0fab62ecd5eefbf",
+        "id": "6a2dd0946894639b",
         "type": "tabs",
         "children": [
           {
-            "id": "67e204cc26a3fea2",
+            "id": "cf7d79dbf93deed6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenue!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da7fdea25b45b5b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Perso/Exam/Serveurs Exam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80bfb2c95d23a7b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
+                "file": "Fiches/Linux/Mettre en place un serveur Haproxy pour gérer HTTPS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lamp",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -90,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
+                "file": "Fiches/Linux/Mettre en place un serveur Haproxy pour gérer HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
+                "file": "Fiches/Linux/Mettre en place un serveur Haproxy pour gérer HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches/Linux/Créer un serveur LAMP sur Debian.md"
+                "file": "Fiches/Linux/Mettre en place un serveur Haproxy pour gérer HTTPS.md"
               }
             }
           }
@@ -175,36 +149,36 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "80bfb2c95d23a7b4",
+  "active": "daa1a7a486229682",
   "lastOpenFiles": [
-    "Fiches/Linux/Installer WordPress sur un serveur Apache.md",
+    "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
+    "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md",
+    "Fiches/Linux/Mettre en place un serveur Haproxy pour gérer HTTPS.md",
+    "Notes à faire!!.md",
+    "Générer une autorité de certification et un certificat auto-signé avec XCA.md",
     "Perso/Exam/Serveurs Exam.md",
+    "Bienvenue!.md",
+    "Fiches/Linux/Vérifier les ports utilisés sur Linux.md",
+    "Fiches/Linux/Mettre en place Rsyslog.md",
+    "Fiches/Linux/Configuration d'un serveur Asterisk.md",
+    "M2L.md",
+    "Fiches/Linux/Installer WordPress sur un serveur Apache.md",
+    "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
     "Perso/Exam/ACL Exam.md",
-    "Ordre prises armoire A.md",
+    "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
+    "Fiches/Cisco/Paramètrer une connexion SSH sur un appareil Cisco.md",
+    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
+    "Perso/Exam/Ordre prises armoire A.md",
     "Perso/Exam",
     "Perso",
-    "Bienvenue!.md",
-    "Notes à faire!!.md",
     "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
     "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
     "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
     "Fiches/Cisco/IOS/Les commandes principales sur IOS.md",
     "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
-    "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
-    "Fiches/Linux/Mettre en place Rsyslog.md",
     "Fiches/Cisco/IOS/Configurer un NAT de destination sur Cisco.md",
     "daily/2023-03-18.md",
-    "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
-    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
     "Fiches/Cisco/IOS/Reinitialiser un Switch Cisco.md",
-    "Fiches/Cisco/IOS/Changer la location des logs sur Cisco.md",
-    "_templates/template1.md",
-    "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md",
-    "2023-W11.md",
-    "Fiches/Cisco/VLAN/Affecter un port à un VLAN.md",
-    "Fiches/Cisco/VLAN/Créer un VLAN sur IOS.md",
-    "Fiches/Cisco/VLAN/Définir un port en mode Trunk.md",
-    "Fiches/Cisco/Paramètrer une connexion SSH sur un appareil Cisco.md",
     "daily",
     "Untitled.canvas",
     "Images/DMZ.png",

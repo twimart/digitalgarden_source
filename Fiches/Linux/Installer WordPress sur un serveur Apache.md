@@ -46,7 +46,7 @@ CREATE USER 'admin'@'localhost' IDENTIFIED BY 'toto';
 On doit ensuite donner tous les droits à cet utilisateur:
 
 ```
-GRANT ALL PRIVILEGES ON tuto_com.* TO admin@localhost;
+GRANT ALL PRIVILEGES ON toto_com.* TO admin@localhost;
 ```
 
 Puis on active les nouveaux privilèges:

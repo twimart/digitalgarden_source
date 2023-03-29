@@ -38,5 +38,31 @@ Premièrement, on va exporter notre autorité de certification. Clic droit sur v
 
 Deuxièmement, votre certificat et votre clé privée. On va les exporter en un seul fichier. Pour cela, sélectionnez votre certificat, clic droit dessus, choisissez "Exporter", puis "Fichier". Dans la fenêtre qui s'ouvre, changez l'extension pour `Chaîne PKCS#12 (.pfx)` . Ce fichier contient à la fois votre certificat et votre clée. 
 
+#### Exporter **la clé privée et le certificat** dans le même fichier :
+
+```
+openssl pkcs12 -in xca.p12 -out keyStore.pem -nodes
+```
+
+#### Exporter seulement **la clé privée** :
+
+```
+openssl pkcs12 -in xca.p12 -out key.pem -nodes -nocerts
+```
+
+#### Exporter seulement **le certificat** :
+
+```
+openssl pkcs12 -in xca.p12 -out certificat.pem -nokeys
+```
 
 
+### 5ième étape: tester votre certificat
+
+##### Pour Chrome:
+
+Chrome utilise les certificat validé par Windows. Dans Windows, chercher "gérer les certifcats utilisateurs". Une fenêtre s'ouvre: allez la deuxième ligne ("Autorités de certification de confiance racine"). Clic droit dessus, "toutes les tâches" -> "importer", puis choisir votre autorité de certification (que vous avez exportez à la 4ième étape.)
+
+##### Pour Firefox
+
+Aucune idée je vais checker ca. Ca doit être dans les paramètres. 
