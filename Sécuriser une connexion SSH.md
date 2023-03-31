@@ -1,36 +1,39 @@
 ---
 dg-publish: true
 ---
+
+# Mettre en place des clés SSH
+
 ### Etape 1: générer une paire de clés
 
 Ouvrez un terminal et taper la commande suivante:
 
-```
+```bash
 ssh-keygen -t ed25519
 ```
 
  Je vous recommande de laisser l'emplacement par défaut pour stocker vos clés en appuyant sur Entrée. Mais vous pouvez changer d'emplacement si vous le dérirez.
 
-```
+```bash
 Generating public/private ed25519 key pair.
 Enter file in which to save the key (/home/<user>/.ssh/id_ed25519):
 ```
 
 Entrez une phrase secrète pour protèger la clé privée:
 
-```
+```bash
 Enter passphrase (empty for no passphrase):
 ```
 
 Tapez la une seconde fois:
 
-```
+```bash
 Enter same passphrase again:
 ```
 
 Et vos clés sont maintenant créées!
 
-```
+```bash
 Your identification has been saved in /home/<user>/.ssh/id_ed25519
 Your public key has been saved in /home/<user>/.ssh/id_ed25519.pub
 The key fingerprint is:
@@ -54,7 +57,7 @@ The key's randomart image is:
 
 Allez la où se trouve votre paire de clés puis envoyer la clé publique vers l'hôte distant désiré:
 
-```
+```bash
 cd /home/<user>/.ssh/
 
 ssh-copy-id -i id_ed25519.pub <user_distant>@<hostname>
@@ -68,7 +71,7 @@ Remplacer `hostname` par l'adresse IP ou le nom d'hôte du serveur distant.
 
 Connectez vous en SSH avec la commande suivante:
 
-```
+```bash
 ssh <user_distant>@<hostname_distant>
 ```
 
@@ -76,4 +79,23 @@ Vous devrez alors vous connecter à l'hôte distant afin de copier votre clé pu
 
 Puis vous n'aurez plus besoin de mettre de mot de passe du tout pour vous connecter!
 
+# Changer le port par défaut de SSH
 
+Configurer le fichier de configuration SSH de votre serveur distant:
+
+```bash
+sudo nano /etc/ssh/sshd_config
+```
+
+Dans ce fichier, recherchez  `Port 22` - *cela pourrait être commenté* - et remplacez le par la valeur désiré. Par exemple:
+
+```bash
+Port 2222
+```
+
+
+Sauvegarder les changements et redémarrer SSH :
+
+```bash
+systemctl restart ssh
+```

@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf7d79dbf93deed6",
+            "id": "dfbc63c4dfd1457b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches/Linux/Mettre en place un serveur Haproxy pour gérer HTTPS.md",
+                "file": "BTS épreuve pratique version détaillé - Mission 2.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "31b60da3a4c45043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sécuriser une connexion SSH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e94d3d1f62d13eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sécuriser une connexion SSH.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches/Linux/Mettre en place un serveur Haproxy pour gérer HTTPS.md",
+                "file": "Sécuriser une connexion SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches/Linux/Mettre en place un serveur Haproxy pour gérer HTTPS.md",
+                "file": "Sécuriser une connexion SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches/Linux/Mettre en place un serveur Haproxy pour gérer HTTPS.md"
+                "file": "Sécuriser une connexion SSH.md"
               }
             }
           }
@@ -149,45 +174,47 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "daa1a7a486229682",
+  "active": "2e94d3d1f62d13eb",
   "lastOpenFiles": [
-    "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
     "Fiches/Mettre en place une conexion SSH via l'échanges de clés.md",
+    "BTS épreuve pratique version détaillé - Mission 2.md",
+    "Sécuriser une connexion SSH.md",
+    "Fiches/Cisco/IOS/Reset un Switch Cisco (sans mot de passe).md",
+    "Perso/Exam/Ordre prises armoire A.md",
+    "Branchement épreuve pratique 1.md",
+    "mission 2.md",
+    "Images/mission2.png",
+    "Images/Capture d’écran 2023-03-31 081938.png",
+    "Images/DMZ.png",
+    "Pasted image 20230331081626.png",
+    "Comment démarrer ou stopper un service sur Linux.md",
+    "Pasted image 20230323084812.png.md",
+    "BTS épreuve pratique version commande (Doc1).md",
+    "Fiches/Linux/Installer GLPI sur un serveur LAMP.md",
     "Fiches/Linux/Mettre en place un serveur Haproxy pour gérer HTTPS.md",
+    "Fiches/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
+    "Fiches/Cisco/IOS/Reset un routeur Cisco (sans mot de passe).md",
+    "Comment configurer un DHCP sur.md",
     "Notes à faire!!.md",
-    "Générer une autorité de certification et un certificat auto-signé avec XCA.md",
+    "Untitled.canvas",
+    "Fiches/Linux/Installer WordPress sur un serveur Apache.md",
+    "Perso/Exam/ACL Exam.md",
     "Perso/Exam/Serveurs Exam.md",
+    "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
+    "Fiches/Cisco/IOS/Configurer un NAT de destination sur Cisco.md",
+    "Générer une autorité de certification et un certificat auto-signé avec XCA.md",
     "Bienvenue!.md",
     "Fiches/Linux/Vérifier les ports utilisés sur Linux.md",
     "Fiches/Linux/Mettre en place Rsyslog.md",
     "Fiches/Linux/Configuration d'un serveur Asterisk.md",
-    "M2L.md",
-    "Fiches/Linux/Installer WordPress sur un serveur Apache.md",
-    "Fiches/Linux/Créer un serveur LAMP sur Debian.md",
-    "Perso/Exam/ACL Exam.md",
-    "Fiches/Cisco/IOS/Configuration du NAT avec Cisco.md",
-    "Fiches/Cisco/Paramètrer une connexion SSH sur un appareil Cisco.md",
-    "Fiches/Cisco/IOS/Mettre en place un Routage on-a-stick.md",
-    "Perso/Exam/Ordre prises armoire A.md",
     "Perso/Exam",
     "Perso",
-    "Fiches/Cisco/IOS/Configurer un bannière sur IOS.md",
-    "Fiches/Cisco/IOS/Configurer un domaine sur IOS.md",
-    "Fiches/Cisco/IOS/Donner un nom à un équipement Cisco.md",
-    "Fiches/Cisco/IOS/Les commandes principales sur IOS.md",
-    "Fiches/Cisco/IOS/Mettre en place QOS sur un Switch Cisco.md",
-    "Fiches/Cisco/IOS/Configurer un NAT de destination sur Cisco.md",
-    "daily/2023-03-18.md",
-    "Fiches/Cisco/IOS/Reinitialiser un Switch Cisco.md",
     "daily",
-    "Untitled.canvas",
-    "Images/DMZ.png",
     "Images/ssh.png",
     "Images/putty.png",
     "Images/stick réseau.png",
     "Images/nat réseau.png",
     "Images/favicon-32x32.svg",
-    "Images/reseau lacp.png",
-    "Images/nat reseau.png"
+    "Images/reseau lacp.png"
   ]
 }
