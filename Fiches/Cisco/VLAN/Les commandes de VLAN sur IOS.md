@@ -10,5 +10,4 @@ dg-publish: true
 
 - [[Définir un port en mode Trunk]]
 
-
-
+#vlan #cisco 

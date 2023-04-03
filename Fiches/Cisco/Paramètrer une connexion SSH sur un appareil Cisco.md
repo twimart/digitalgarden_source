@@ -12,7 +12,6 @@ Router(config)# hostname Toto
 Toto(config)# ip domain-name exemple.com
 ```
 
-*(si vous voulez faire votre propre serveur DNS Linux, j'ai fait un tuto [ici](/fr/notes/linux-dns/) )*
 
 Pensez à sécuriser le mode privilégié de votre appareil !
 ```
@@ -108,3 +107,6 @@ Et vous êtes enfin connecté !
 Un mot de passe vous sera demandé si vous voulez rentrer en mode privilégié. C'est celui que vous avez mis lors de la commande `enable secret <mot_de_passe>`
 
 C'est tout pour la connexion SSH sur Cisco 😁!
+
+#ssh
+

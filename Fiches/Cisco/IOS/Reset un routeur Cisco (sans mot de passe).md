@@ -22,3 +22,4 @@ reset
 
 Le routeur va alors redémarrer et il sera réinitialisé! 
 
+#cisco 

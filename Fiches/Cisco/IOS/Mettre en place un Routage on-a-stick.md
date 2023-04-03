@@ -50,8 +50,7 @@ R1(config-subif)# ip address 192.168.254.254 255.255.255.0
 
 ***Vous pouvez répéter la 2ieme et 3ième étape autant de fois que vous avez de VLANs.***
 
-
-
+#cisco 
 
 
 

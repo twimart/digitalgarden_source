@@ -14,3 +14,5 @@ Une fois que vous voyez que le switch redémarre (grâce à votre connexion Sér
 
 Et c'est tout pour reset un Switch Cisco!
 
+
+#cisco 

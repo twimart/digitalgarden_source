@@ -59,3 +59,4 @@ Router(config)# ip route 0.0.0.0 0.0.0.0 203.0.113.1
 
 C'est tout ce qu'il faut pour configurer le NAT sur un routeur Cisco. Maintenant, toutes les adresses IP privées du réseau 192.168.53.0/24 seront traduites en adresse IP publique lorsqu'elles accéderont à Internet. Elles pourront ainsi avoir accès à Internet. 
 
+#cisco 

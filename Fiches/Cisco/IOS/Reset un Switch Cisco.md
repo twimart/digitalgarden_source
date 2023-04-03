@@ -10,3 +10,4 @@ Branchez le switch en série sur un ordinateur afin de voir quand celui-ci déma
 Pour cela, maintenir le bouton "mode" (souvent situer en facade ou à l'arrière du switch). Cela peut prendre 10 à 15 secondes selon les Switch.
 Quans vous verrez sur votre ordinateur que le switch redémarre (grâce au câble série), relachez le bouton "mode" et votre Switch sera réinitialisé! 
 
+#cisco 

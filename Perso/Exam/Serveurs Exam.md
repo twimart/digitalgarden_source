@@ -1,25 +1,29 @@
 
-## DHCP ##
+## DHCP 
+
+```bash
 nano /etc/dhcp/dhcpd.conf
 
 nano /etc/default/isc-dhcp-server
 
-service isc-dhcp-server.service restart
+service isc-dhcp-server restart
 
+```
 
-
-## NTP ##
+## NTP 
+```
 nano /etc/chrony/chrony.conf
 
 systemctl restart chrony
 service chrony restart
+```
 
 ```
 ntp server <@ip_ntp>
-clock set hh:mm:ss dd mm yyyy
+clock set hh:mm:ss dd <month> yyyy
 ```
 
-## TFTP ##
+## TFTP 
 
 nano /etc/xinetd.d/tftp
 service xinetd restart
@@ -31,7 +35,7 @@ copy running-config tftp
 
 
 
-## RSYSLOG ##
+## RSYSLOG 
 
 nano /etc/rsyslog.conf  (peut etre ajouter la ligne avec un nouveau fichier)
 
@@ -41,18 +45,18 @@ Switch# conf t
 Switch(config)# logging <@ip_RSysLog>
 ```
 
-## Apache/Wordpress ##
+## Apache/GLPI
 
-cd /etc/apache/
+cd /etc/apache2/
 cd /var/www/html/
 
-Créer la base de donnée maria db et déziper wordpress dans /tmp . Après, suivre les étapes dns mon tuto.
+[[Installer GLPI sur un serveur LAMP]]
 
 ```
-systemctl restart apache2
+service apache2 restart 
 ```
 
-## DNS ##
+## DNS
 
 nano  /etc/bind/named.conf.local
 
@@ -65,7 +69,7 @@ systemctl restart bind9
 ```
 
 
-## Haproxy ##
+## Haproxy 
 
 nano /etc/haproxy/haproxy.conf
 

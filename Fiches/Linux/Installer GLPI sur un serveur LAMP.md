@@ -1,6 +1,8 @@
 ---
 dg-publish: false
 ---
+### Prérequis
+Avoir un server LAMP fonctionnel. J'ai une note [[Créer un serveur LAMP sur Debian |ici]]. 
 
 Installez d'abord quelques dépendances pour GLPI :
 ```
@@ -12,7 +14,7 @@ apt install php-mysqli php-mbstring php-curl php-gd php-simplexml php-intl php-l
 Connectez vous à votre instance MariaDB:
 
 ```
-mysql -u root -p
+mariadb -u root -p
 ```
 
 Puis on va créer la base de données ainsi que l'utilisateur qui va l'administrer : 

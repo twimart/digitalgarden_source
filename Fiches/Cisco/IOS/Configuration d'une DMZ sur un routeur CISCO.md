@@ -14,13 +14,13 @@ Dans ce réseau, PC0 fait partis du LAN (172.16.0.0/16). Server0 doit être acce
 
 - Cette interface doit être configurée avec une adresse IP différente de celle utilisée sur l'interface LAN et l'interface WAN.  La commande pour créer une interface est la suivante :
 
-```
+```console
 Router(config)# interface GigabitEthernet 0/0.1
 ```
 
 - Configurez l'adresse IP de l'interface DMZ. Utilisez la commande suivante :
 
-```
+```console
 Router(config-if)# ip address 10.54.0.254 255.255.255.0
 ```
 
@@ -32,7 +32,6 @@ Afin que nos service présent dans la DMZ puissent accèder à Internet et répo
  - Définissez une règle de translation NAT dynamique (PAT) pour la DMZ. Cette règle permettra de traduire les adresses IP de la DMZ en une adresses IP publique (celle du routeur) qui peuvent être accessibles depuis Internet. 
   - Les commandes pour configurer une règle de translation NAT dynamique est [[Configuration du NAT avec Cisco |ici]].
 
-
 *(On refera cette étape de la même manière pour que le LAN aussi puisse sortir du réseau)*
 
 ## Étape 3 : Mise en place de la DMZ
@@ -41,7 +40,7 @@ Configurez des règles de pare-feu pour la DMZ. Les règles de pare-feu permette
 
 - Par exemple, pour autoriser le trafic HTTP entrant dans la DMZ, vous pouvez utiliser la commande suivante :
 
-```
+```console
 Router(config)# access-list 101 permit tcp any 10.54.0.0 0.0.255.255 eq http
 ```
 
@@ -49,7 +48,7 @@ Router(config)# access-list 101 permit tcp any 10.54.0.0 0.0.255.255 eq http
 
 - Appliquez les règles de pare-feu à l'interface DMZ en utilisant la commande suivante :
 
-```
+```console
 Router(config)# interface GigabitEthernet 0/0.1 
 Router(config-if)# ip access-group 101 out
 ```
@@ -64,4 +63,4 @@ Voir comment faire [[Configurer un NAT de destination sur Cisco |ici]].
 
 Désormais, Internet devrais avoir accès à notre DMZ! 
 
-
+#cisco 

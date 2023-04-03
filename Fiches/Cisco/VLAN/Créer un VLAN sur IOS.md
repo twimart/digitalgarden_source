@@ -10,3 +10,6 @@ Switch(config)# vlan <vlan-id>
 voir aussi : 
 - [[Affecter un port à un VLAN]]
 - [[Donner une addresse IP à un VLAN sur IOS]]
+
+
+#cisco #vlan
