@@ -1,6 +1,6 @@
 {
   "githubRepo": "thomas-garden",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "twimart",
   "gardenBaseUrl": "https://thomas-garden.vercel.app/",
   "prHistory": [],
@@ -22,6 +22,7 @@
   "showUpdatedTimestamp": false,
   "updatedTimestampKey": "dg-updated",
   "timestampFormat": "MMM dd, yyyy h:mm a",
+  "styleSettingsCss": "",
   "defaultNoteSettings": {
     "dgHomeLink": true,
     "dgPassFrontmatter": false,

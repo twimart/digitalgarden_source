@@ -37,7 +37,8 @@ Mettre ces matrices sur la calculette.
 
 #### Trouver la fermeture transitive d'une matrice
 
-![[FermetureMatrices.pdf]]
+![[FermetureMatrices-1.png]]
+![[FermetureMatrices-2.png]]
 
 # 4. Trouver un type de relation
 
