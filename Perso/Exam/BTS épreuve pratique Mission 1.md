@@ -22,25 +22,25 @@ Les machines des réseaux privés (172.16.0.0/16) sortent sur le réseau public 
 
 #### 1. Reset le switch
 
-Chercher -> Reset un Switch Cisco (sans mot de passe)
+[[Reset un Switch Cisco (sans mot de passe)]]
 
 #### 2. Reset le routeur
 
-Chercher ->Ordre prises armoire A
-Chercher ->Reset un routeur Cisco (sans mot de passe)
+[[Ordre prises armoire A]]
+[[Reset un routeur Cisco (sans mot de passe)]]
 
 #### 3. Etablir une connexion SSH sur les équipements
 
-Chercher ->Paramètrer une connexion SSH sur un appareil Cisco
+[[Paramètrer une connexion SSH sur un appareil Cisco]]
 
 #### 4. Configuration du routage *on-a-stick*
 
-Chercher ->Mettre en place un Routage on-a-stick 
+[[Mettre en place un Routage on-a-stick]]
 
 #### 5. Mettre en place le NAT dynamique et le NAT de destination
 
-Chercher ->Configuration du NAT avec Cisco
-Chercher ->Configurer un NAT de destination sur Cisco
+[[Configuration du NAT avec Cisco]]
+[[Configurer un NAT de destination sur Cisco]]
 
 ***
 
@@ -48,30 +48,30 @@ Chercher ->Configurer un NAT de destination sur Cisco
 
 #### 1. Configurer le service DHCP
 
-Chercher ->Serveurs Exam
+[[Serveurs Exam]]
 
 #### 2. Configurer le service Apache2/GLPI 
 
 ***A faire sur le serveur WEB !***
-Chercher ->Serveurs Exam
+[[Serveurs Exam]]
 
 #### 3. Configurer le service NTP 
 
-Chercher ->Serveurs Exam
+[[Serveurs Exam]]
 
 #### 4. Configurer le service TFTP
 
-Chercher ->Serveurs Exam
+[[Serveurs Exam]]
 
 #### 5. Configurer le service Syslog
 
-Chercher ->Serveurs Exam
+[[Serveurs Exam]]
 
 ### 3ième partie:
 
 #### 1. Configurer les ACL
 
-Chercher ->ACL Exam Mission 1
+[[ACL Exam Mission 1]]
 
 #### 2. Vérifier que les services du Serveur fonctionnent
 
@@ -80,4 +80,8 @@ Chercher ->ACL Exam Mission 1
 - Vérifier l'envoi de configuration via TFTP.
 - Vérifier le stockage des log avec Syslog.
 
-
+- [[ACL Exam Mission 1]]
+- [[ACL Exam Mission 2]]
+- [[BTS épreuve pratique Mission 2]]
+- [[Ordre prises armoire A]]
+- [[Serveurs Exam]]

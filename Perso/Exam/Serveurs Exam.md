@@ -16,6 +16,7 @@ nano /etc/chrony/chrony.conf
 
 systemctl restart chrony
 service chrony restart
+
 ```
 
 ```
@@ -82,4 +83,8 @@ service haproxy restart
 logs: tail /var/log/haproxy.log
 
 
-
+- [[ACL Exam Mission 1]]
+- [[ACL Exam Mission 2]]
+- [[BTS épreuve pratique Mission 1]]
+- [[BTS épreuve pratique Mission 2]]
+- [[Ordre prises armoire A]]

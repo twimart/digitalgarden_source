@@ -19,24 +19,24 @@ Les machines des réseaux privés (172.16.0.0/16) sortent sur le réseau public 
 
 #### 1. Reset le switch
 
-Chercher ->Reset un Switch Cisco (sans mot de passe)
+[[Reset un Switch Cisco (sans mot de passe)]]
 
 #### 2. Reset le routeur
 
-Chercher ->Ordre prises armoire A
-Chercher ->Reset un routeur Cisco (sans mot de passe)
+[[Ordre prises armoire A]]
+[[Reset un routeur Cisco (sans mot de passe)]]
 
 #### 3. Etablir une connexion SSH sur les équipements
 
-Chercher ->Paramètrer une connexion SSH sur un appareil Cisco
+[[Paramètrer une connexion SSH sur un appareil Cisco]]
 
 #### 4. Configuration du routage *on-a-stick*
 
-Chercher ->Mettre en place un Routage on-a-stick 
+[[Mettre en place un Routage on-a-stick]]
 
 #### 5. Mettre en place le NAT dynamique 
 
-Chercher ->Configuration du NAT avec Cisco
+[[Configuration du NAT avec Cisco]]
 
 ***
 
@@ -44,21 +44,21 @@ Chercher ->Configuration du NAT avec Cisco
 
 #### 1. Installer GLPI sur le serveur
 
-Chercher ->Installer GLPI sur un serveur LAMP
+[[Installer GLPI sur un serveur LAMP]]
 
 #### 2. Paramètrer Bind9 pour le DNS
 
-Chercher ->Serveurs Exam
+[[Serveurs Exam]]
 
 Tester si la connexion est possible en *HTTP*
 
 #### 3. Créer un certificat pour le site
 
-Chercher ->Générer une autorité de certification et un certificat auto-signé avec XCA
+[[Générer une autorité de certification et un certificat auto-signé avec XCA]]
 
 #### 4. Configurer HaProxy
 
- Chercher ->Mettre en place un serveur Haproxy pour gérer HTTPS
+[[Mettre en place un serveur Haproxy pour gérer HTTPS]]
 
 ***
 
@@ -66,12 +66,20 @@ Chercher ->Générer une autorité de certification et un certificat auto-signé
 
 #### Sécuriser l'accès en SSH depuis Internet
 
-Chercher ->Sécuriser une connexion SSH
+[[Changer le port par défaut de SSH]]
 
 #### Mise en place des ACLs sur le Routeur
 
-Chercher ->ACL Exam Mission 2
+[[ACL Exam Mission 2]]
 
+***
 
+### 4ième partie:
 
+#### Comment montrer ce que j'ai fait: 
+
+- Routage on-a-stick + NAT = j'ai Internet et je peux ping la DMZ
+- DNS + GLPI + HTTPS = aller sur GLPI et montrer le cadenas
+- Sécurisation de SSH: essayer de se connecter au Switch normalement, puis avec 2222 et montrer les clés.
+- 
 

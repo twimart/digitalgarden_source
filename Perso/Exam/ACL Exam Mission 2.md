@@ -16,12 +16,12 @@ access-list 103 permit tcp  (réseau DMZ masque inverse) eq 2222 any
 access-list 100 permit tcp (réseau DMZ masque inverse) eq 2222 (réseau LAN masque inverse)
 
 ### !Accès SSH à mon routeur à partir du LAN
-access-list 101 permit tcp  (réseau LAN masque inverse) host (adresse routeur LAN) eq 2222
-access-list 100 permit tcp host (adresse routeur LAN) eq 2222 (réseau LAN masque inverse)
+access-list 101 permit tcp  (réseau LAN masque inverse) host (adresse routeur LAN) eq 22
+access-list 100 permit tcp host (adresse routeur LAN) eq 22 (réseau LAN masque inverse)
 
 ### !Accès SSH à mon routeur à partir de la DMZ
-access-list 103 permit tcp (réseau DMZ masque inverse)  host (adresse routeur DMZ) eq 2222
-access-list 102 permit tcp host (adresse routeur DMZ) eq 2222 (réseau DMZ masque inverse)
+access-list 103 permit tcp (réseau DMZ masque inverse)  host (adresse routeur DMZ) eq 22
+access-list 102 permit tcp host (adresse routeur DMZ) eq 22 (réseau DMZ masque inverse)
 
 ### !Accès SSH à partir d'Internet vers la DMZ
 access-list 102 permit tcp  any  (réseau DMZ masque inverse) eq 2222
@@ -55,5 +55,8 @@ access-list 102 deny udp any any log
 
 show log 
 
-
-
+- [[ACL Exam Mission 1]]
+- [[BTS épreuve pratique Mission 1]]
+- [[BTS épreuve pratique Mission 2]]
+- [[Ordre prises armoire A]]
+- [[Serveurs Exam]]
