@@ -89,6 +89,8 @@ Remplir le tableaux en fonction des proposition. Ensuite, chercher à regrouper 
 
 ![[mpm.png]]
 
+***Quand on calcue la date de début, prendre la plus grande possible. Quand on calcule la date de fin, prendre la plus petite possible***
+
 ### Calculer les différents éléments 
 -   **Date au plus tôt :**
     -   Date à laquelle on peut commencer la tâche parce que les tâches précédentes sont terminées.
