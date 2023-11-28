@@ -42,7 +42,7 @@ Mettre ces matrices sur la calculette.
 
 # 4. Trouver un type de relation
 
-***Ici, R est "plus grand  que (>)" ***
+***Ici, R est "plus grand  que (>)" 
 - x = 4
 - y = 2
 - z = 1
@@ -90,7 +90,9 @@ Remplir le tableaux en fonction des proposition. Ensuite, chercher à regrouper 
 
 ![[mpm.png]]
 
-***Quand on calcue la date de début, prendre la plus grande possible. Quand on calcule la date de fin, prendre la plus petite possible***
+***Quand on calcule la date de début, prendre la plus grande possible. Quand on calcule la date de fin, prendre la plus petite possible***
+
+
 
 ### Calculer les différents éléments 
 -   **Date au plus tôt :**

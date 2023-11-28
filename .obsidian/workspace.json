@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f3508549bc280cb4",
+        "id": "2fa1b312676e17dd",
         "type": "tabs",
         "children": [
           {
-            "id": "b64cc53bd7ac69e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches/Lamp/Créer un serveur LAMP sur Debian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b445663a22a28576",
+            "id": "d1f0b673e373bc57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Révision Maths.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "réini",
+                "query": "Reset",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "af4727d283d4b4d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -164,40 +159,41 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b445663a22a28576",
+  "active": "daa1a7a486229682",
   "lastOpenFiles": [
-    "Images/FermetureMatrices-1.png",
-    "Images/FermetureMatrices-2.png",
-    "Images/mpm.png",
-    "Révision Maths.md",
-    "Images/FermetureMatrices.pdf",
-    "Images/oui.gif",
-    "Images/ensmbles.png",
-    "Fiches/Lamp/Créer un serveur LAMP sur Debian.md",
-    "Perso/Maths",
-    "Fiches/HTTPS/Mettre en place un serveur Haproxy pour gérer HTTPS.md",
-    "Fiches/HTTPS/Générer une autorité de certification et un certificat auto-signé avec XCA.md",
-    "Fiches/Divers Linux/Voir les logs.md",
-    "Fiches/Divers Linux/Vérifier les ports utilisés sur Linux.md",
-    "Fiches/Divers Linux/Configuration d'un serveur Asterisk.md",
-    "Fiches/Divers Linux/Comment démarrer ou stopper un service sur Linux.md",
     "Bienvenue!.md",
+    "Révision Maths.md",
+    "Images/favicon-32x32.svg",
     "Notes à faire.md",
-    "Comment sécuriser mes adresses mails.md",
-    "Fiches/SSH/Mettre en place Fail2Ban pour sécuriser SSH.md",
+    "Fiches/Reset/Reset un Switch Cisco (sans mot de passe).md",
+    "BTS SIO/Exam/BTS épreuve pratique Mission 1.md",
+    "BTS SIO/Exam/ACL Exam Mission 1.md",
+    "Fiches/Reset/Reset un routeur Cisco (sans mot de passe).md",
+    "Fiches/VLAN/Donner une addresse IP à un VLAN sur IOS.md",
+    "Fiches/VLAN/Définir un port en mode Trunk.md",
+    "Fiches/VLAN/Créer un VLAN sur IOS.md",
+    "Fiches/VLAN/Affecter un port à un VLAN.md",
     "Fiches/SSH/Paramètrer une connexion SSH sur un appareil Cisco.md",
     "Fiches/SSH/Mettre en place une conexion SSH via l'échanges de clés.md",
+    "Fiches/SSH/Mettre en place Fail2Ban pour sécuriser SSH.md",
     "Fiches/SSH/Empêcher la connexion de l'utilisateur root en SSH.md",
     "Fiches/SSH/Désactivez l'authentification par mot de passe classique.md",
     "Fiches/SSH/Configurer le timeout des sessions SSH.md",
     "Fiches/SSH/Changer le port par défaut de SSH.md",
-    "Localisation  des logs d'authentification.md",
-    "Fiches/Hugo/Lancer le serveur web Hugo.md",
-    "Fiches/Hugo/Créer un nouveau site web avec Hugo.md",
-    "Fiches/Hugo/Créer un nouveau post Hugo.md",
-    "Perso/Exam/Serveurs Exam.md",
-    "Fiches/Divers Cisco/Supprimer un nat statique sur Cisco.md",
-    "Fiches/Divers Cisco/Donner un nom à un équipement Cisco.md",
+    "Fiches/Rsyslog/Mettre en place Rsyslog.md",
+    "Fiches/Rsyslog/Changer la location des logs sur Cisco.md",
+    "Fiches/Routage/Mettre en place un Routage on-a-stick.md",
+    "Fiches/NAT/Configurer un NAT de destination sur Cisco.md",
+    "Fiches/NAT/Configuration du NAT avec Cisco.md",
+    "Fiches/Lamp/Installer GLPI sur un serveur LAMP.md",
+    "Fiches/Lamp/Installer WordPress sur un serveur Apache.md",
+    "Images/FermetureMatrices-1.png",
+    "Images/FermetureMatrices-2.png",
+    "Images/mpm.png",
+    "Images/FermetureMatrices.pdf",
+    "Images/oui.gif",
+    "Images/ensmbles.png",
+    "Perso/Maths",
     "Fiches/Divers Linux",
     "Fiches/HTTPS",
     "Fiches/LAMP",
@@ -210,8 +206,6 @@
     "Images/mission2.png",
     "Images/Capture d’écran 2023-03-31 090032.png",
     "Images/mission2 - Copie.jpg",
-    "Images/Capture d’écran 2023-03-31 081938.png",
-    "Images/DMZ.png",
     "Untitled.canvas"
   ]
 }

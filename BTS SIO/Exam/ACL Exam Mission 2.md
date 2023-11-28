@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ### !Accès Internet à partir du LAN
 access-list 101 permit tcp(réseau LAN masque inverse) any eq 53

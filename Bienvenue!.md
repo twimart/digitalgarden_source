@@ -3,10 +3,15 @@ dg-publish: true
 dg-home: true
 ---
 
-Vous êtes à présent sur un site qui regroupe diverses notes personnelles que j'utilise au quotidien, notament dans mes études. 😊
-N'hésitez pas à vous en servir 😎! 
+# Bienvenue !  
 
-**Je précise que site est encore en dévelopement, de nombreuses autre fiches sont à venir! 😉**
+Vous vous trouvez à présent sur une page contenant de nombreuses notes que j'utilise au quotidien. N'hésitez pas à vous en servir aussi! 
+## Notes et Tutoriels 
+Explorez des ressources informatiques sur Cisco, Linux, et bien plus encore. 
+#### Catégories 
+- **Cisco Networking**: Guides pratiques et astuces. 
+- **Systèmes Linux**: Commandes essentielles et techniques avancées. 
+- **Informatique Générale**: Sécurité, programmation, et tendances. 
 
 
 

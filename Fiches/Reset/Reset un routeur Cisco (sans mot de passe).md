@@ -1,6 +1,5 @@
 ---
-dg-publish: false
-dg-home: false
+dg-publish: true
 ---
 ## Eteindre le routeur et se brancher en série dessus
 

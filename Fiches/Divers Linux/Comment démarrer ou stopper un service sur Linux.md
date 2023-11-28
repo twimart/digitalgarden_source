@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ##### Commande pour les service:
 

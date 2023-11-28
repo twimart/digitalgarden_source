@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ### !Bloquer SSH de la DMZ vers le Serveur
 

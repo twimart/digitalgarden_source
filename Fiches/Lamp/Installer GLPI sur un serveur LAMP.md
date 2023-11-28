@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 ### Prérequis
 Avoir un server LAMP fonctionnel. J'ai une note [[Créer un serveur LAMP sur Debian |ici]]. 
